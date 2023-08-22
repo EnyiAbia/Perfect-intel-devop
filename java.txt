@@ -1,0 +1,5 @@
+# outline jobs
+  - setup
+  - clone
+  - edit
+  - push
